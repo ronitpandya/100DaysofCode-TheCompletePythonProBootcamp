@@ -1,1 +1,1 @@
-print("My age: " + str(12))
+print("My age: " + str(input("your age?")))
